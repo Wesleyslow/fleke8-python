@@ -1,0 +1,3 @@
+[flake8]
+#consegui inigorar um erro
+ignore =F401
